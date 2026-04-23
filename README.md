@@ -34,7 +34,7 @@ Me apasiona el desarrollo de software y la ideación de sistemas como soluciones
 Actualmente estoy construyendo principalmente con el ecosistema JavaScript moderno:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,ts,nodejs" />
+  <img src="https://skillicons.dev/icons?i=react,vite,nextjs,ts,nodejs,go,postgres,mongodb" />
 </p>
 
 * ⚛️ React como base de UI
@@ -48,7 +48,7 @@ Actualmente estoy construyendo principalmente con el ecosistema JavaScript moder
 🌐 Web & Backend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,spring,django,fastapi,laravel,angular,react,postgres,mongodb" />
+<img src="https://skillicons.dev/icons?i=java,spring,django,fastapi,laravel,php,angular,react,postgres,mongodb" />
 </p>
 📱 Mobile & Cloud (BaaS)
 
